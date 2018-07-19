@@ -1,0 +1,59 @@
+---
+title: "Citizen science data defines and tracks restoration targets in urban areas"
+
+
+author: |
+  | Corey T. Callaghan^[Corresponding author: c.callaghan@unsw.edu.au] $^1$, David J. Eldridge $^1$,  John M. Martin $^1$, $^2$, Richard T. Kingsford $^1$, Richard E. Major $^1$$^,$$^3$,
+  | $^1$Centre for Ecosystem Science, School of Biological, Earth and Environmental Sciences, UNSW Sydney, Sydney, NSW, Australia; $^2$Royal Botanic Gardens and Domain Trust, Mrs Macquaries Road, Sydney NSW 2000, Australia; $^3$Australian Museum Research Institute, Sydney, NSW, Australia;
+date: ""
+output: word_document
+fontsize: 12pt
+link-citations: no
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/ecography.csl
+bibliography: references.bib
+---
+
+# Abstract
+
+\newpage
+# Introduction
+Urbanization has drastically altered species' composition and ecosystem functions. Urbanization forms novel environments in which species can either survive, thrive, or XXX. Some species respond positively to urbanization (CITATION), while others respond incredibly negatively (CITATION). Ultimately, urbanization is one process leading to biotic homogenization on a global scale (CITATIONS), which leads to overall decreased biodiversity (CITATION).
+
+Hence, given the current projections for increased urbanization in the future (XXXXX), the necessity to fully understand the impact urbanization has on natural ecosystem components is great.
+
+Previous work has investigated the role of urbanization on bird abundance and community composition (CITATIONS). Generally, there is less species richness within urbanized areas than surrounding landscape that is more natural (CITATIONS). But, some studies have found no trends (CITATIONS), while others have found highest species richness within the urban areas themselves (Callaghan et al. in prep). Some studies have found inconsistent results among multiple cities. Most studies have taken place within single cities (e.g., CITATIONS). However, Batary et al. (2017) did a meta-analysis using 37 case studies for species richness and 20 case studies for abundance, which found that species loss happens especially at the urban-suburban interface. Likewise, Callaghan et al. (in prep) did a study and found that there was a distinct peak within urban green area, likely at the urban interface.
+
+However, many of the previous studies have looked at responses to urbanization by investigating random points throughout an urban matrix and assigning those points to various landcover classes which represented an implicit urbanization gradient. For instance, in his foundational study, Blair (1996) assigned points to approximate landcovers that represented a gradient of urbanization. Studies which assess an explicit urbanization gradient are comparatively rare (CITATIONS).
+
+The effect of city size is still undecided, whereby most studies have taken place in relatively large cities (CITATIONS), and Batary et al. found that city size was XXXX.
+
+Here, we investigate the effect of urbanization on bird species and composition in the Greater Blue Mountains World Heritage Area. We assess patterns on an explicit urbanization gradient, whereby transects start within the most urbanized portion of a city and expand into the natural landscape. We also investigate patterns within relatively small cities. Our aims were to (1) assess changes of bird abundance and community composition in response to mild urbanization, (2) investigate species' traits that predict these trends (e.g., body size, nesting substrate, etc.), and (3) investigate any differences among four different cities sampled in the study.
+
+# Methods
+## Study area
+The study took place within the Greater Blue Mountains World Heritage Area (GBWHA), which is 10,000 km2 and lies about 180 km from Sydney, New South Wales, Australia. It consists mostly of wilderness dominated by temperate forest including over 100 eucalypt species. A total of 265 birds have been recorded within the GBWHA. Within the GBWHA is a strip of linear conurbation consisting of a small number of cities. 
+
+We designed transects (see below) at each of four cities within this conurbation; Woodford, Hazelbrook, Lawson, and Katoomba. Population sizes ranged from 2,000 to 8,000 individuals.
+
+## Bird surveys
+A transect was developed at each city, and points were spaced ~ 500 meters apart on each transect. Woodford, Lawson, and Hazelbrook had 5 points each, while Katoomba had 9 points (Fig. 1). Transects were designed based on accessibility and on a relatively linear path that led from the most urbanized portion of the city into the more natural part of the city.
+
+Between August 2017 and July 2018, transects were visited twice per month, and 5-minute point-counts were conducted at each point. Surveys were conducted on days where the weather would have a minimal effect, and surveys were completed between sunrise and 5 hours after sunrise. Transects, as well as order of transects was randomly completed so that the same transect was not being conducted first every month. A distance sampling approach was used whereby observers recorded all birds heard or seen, and estimated the distance to the birds' detection to the nearest 10 meters.
+
+## Bird traits
+
+## Statistical analyses
+
+# Results
+A total of XX point counts were conducted, and XX minutes spent surveying for birds within the four transects. Overall, XX species were recorded, with the most commonly recorded birds were XXX, XXXX, XXXX, and XXXX on XX%, XX%, XX%, XX% of point-counts respectively. Appendix 1 shows the list of birds recorded and the total number of records for each species.
+
+# Discussion
+
+# Acknowledgements
+We thank the Australian Wildlife Society for providing funding for this work. Mark Ley, Simon Gorta, and Max Breckenridge were instrumental in conducting surveys. Miranda Jordan deserves credit for help with compiling bird traits.
+
+\newpage
+# References
+
+<div id="refs"></div>
+
