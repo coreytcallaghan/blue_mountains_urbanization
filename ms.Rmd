@@ -17,32 +17,33 @@ bibliography: references.bib
 
 \newpage
 # Introduction
-Urbanization has drastically altered species' composition and ecosystem functions. Urbanization forms novel environments in which species can either survive, thrive, or XXX. Some species respond positively to urbanization (CITATION), while others respond incredibly negatively (CITATION). Ultimately, urbanization is one process leading to biotic homogenization on a global scale (CITATIONS), which leads to overall decreased biodiversity (CITATION).
+Habitat fragmentation and land degradation, caused by urbanization are significantly threatening biodiversity, globally [@grimm2000integrated; @aronson2014global; @groffman2017moving], through localized species extinctions and biotic homogenization [@mckinney1999biotic; @mckinney2002urbanization]. Cities are novel ecosystems [@batary2018non], in which some species adapt, survive, and thrive [@evans2009independent; @lowry2013behavioural; @mcdonnell2015adaptation], but others do not. Urban development is continuously increasing with expanding populations [@cohen2006urbanization; @coffee2016visualising], highlighting the importance of understanding urbanization impacts on flora and fauna, critical to the future preservation of biodiversity within urban ecosystems [@clergeau1998bird; @soanescorrecting].
 
-Hence, given the current projections for increased urbanization in the future (XXXXX), the necessity to fully understand the impact urbanization has on natural ecosystem components is great.
+Generally, urbanization has an overall negative effect on species richness and positive effect on abundance [@chace2006urban; @batary2018non], but some studies have found no trends along urbanization gradients [@chamberlain2017trends], while others identified inconsistent trends [@garaffa2009bird]. However, these effects are generally in a non-linear fashion [@blair1996land; @mckinney2002urbanization; @tratalos2007bird], with a peak at intermediate levels of urbanization [@germaine1998relationships; @filloy2018bird; @batary2018non], highlighting the complexity of urbanization impacts on bird communities. Moreover, native and exotic species respond differently to urbanization: native species tend to decrease in density, abundance, and richness in response to urbanization, while exotic species show the opposite trend [@green1984native; @van2008diversity].
 
-Previous work has investigated the role of urbanization on bird abundance and community composition (CITATIONS). Generally, there is less species richness within urbanized areas than surrounding landscape that is more natural (CITATIONS). But, some studies have found no trends (CITATIONS), while others have found highest species richness within the urban areas themselves (Callaghan et al. in prep). Some studies have found inconsistent results among multiple cities. Most studies have taken place within single cities (e.g., CITATIONS). However, Batary et al. (2017) did a meta-analysis using 37 case studies for species richness and 20 case studies for abundance, which found that species loss happens especially at the urban-suburban interface. Likewise, Callaghan et al. (in prep) did a study and found that there was a distinct peak within urban green area, likely at the urban interface.
+To date, the majority of previous studies have investigated implicit urbanization gradients, i.e., classifying bird communities throughout an urban matrix based on the associated land-use classification [@filloyr2018bird]. This approach is limited in that category definitions may differ widely among studies [@batary2018non]. Moreover, previous research has largely focused on 'large', often global, cities [e.g., @blair1996land; @germaine1998relationships] and the effect of size of the urbanized area on changes in bird communities along urban-rural gradients has been poorly studied [but see @garaffa2009bird]. However, reviews have found that city size does not affect the relationship between urbanization and species richness or abundance [@clergeau2001urban @batary2018non], and local-factors are more important than regional landscape-level factors in influencing bird communities [@evans2009habitat; @callaghan2018effects].
+
+We investigated bird community and species-specific responses to urbanization gradients in a series of small cities, nestled within the middle of a World Heritage Area. We assessed patterns on explicit urbanization gradients, whereby transects started within the most urbanized portion of a city and expanded into the natural landscape. Our aims were to (1) assess changes of bird abundance and community composition in response to mild urbanization, (2) investigate species' traits that predict these trends (e.g., body size, nesting substrate, etc.), and (3) investigate differences between native and exotic species responses.
+
 
 However, many of the previous studies have looked at responses to urbanization by investigating random points throughout an urban matrix and assigning those points to various landcover classes which represented an implicit urbanization gradient. For instance, in his foundational study, Blair (1996) assigned points to approximate landcovers that represented a gradient of urbanization. Studies which assess an explicit urbanization gradient are comparatively rare (CITATIONS).
 
-The effect of city size is still undecided, whereby most studies have taken place in relatively large cities (CITATIONS), and Batary et al. found that city size was XXXX.
-
-Here, we investigate the effect of urbanization on bird species and composition in the Greater Blue Mountains World Heritage Area. We assess patterns on an explicit urbanization gradient, whereby transects start within the most urbanized portion of a city and expand into the natural landscape. We also investigate patterns within relatively small cities. Our aims were to (1) assess changes of bird abundance and community composition in response to mild urbanization, (2) investigate species' traits that predict these trends (e.g., body size, nesting substrate, etc.), and (3) investigate any differences among four different cities sampled in the study.
-
 # Methods
 ## Study area
-The study took place within the Greater Blue Mountains World Heritage Area (GBWHA), which is 10,000 km2 and lies about 180 km from Sydney, New South Wales, Australia. It consists mostly of wilderness dominated by temperate forest including over 100 eucalypt species. A total of 265 birds have been recorded within the GBWHA. Within the GBWHA is a strip of linear conurbation consisting of a small number of cities. 
+The study took place within the Greater Blue Mountains World Heritage Area (GBWHA), which is 10,000 km2 and lies about 180 km from Sydney, New South Wales, Australia. It consists mostly of wilderness dominated by temperate forest including over 100 eucalypt species. A total of 265 birds have been recorded within the GBWHA.
 
-We designed transects (see below) at each of four cities within this conurbation; Woodford, Hazelbrook, Lawson, and Katoomba. Population sizes ranged from 2,000 to 8,000 individuals.
+Within the GBWHA is a strip of linear conurbation consisting of a small number of cities. We designed transects (see below) at each of four cities within this conurbation (Fig. 1); Woodford, Hazelbrook, Lawson, and Katoomba. Population sizes ranged from ~ 2,000 to 8,000 individuals among the cities, with Lawson the least populated and Katoomba the most populated.
 
 ## Bird surveys
-A transect was developed at each city, and points were spaced ~ 500 meters apart on each transect. Woodford, Lawson, and Hazelbrook had 5 points each, while Katoomba had 9 points (Fig. 1). Transects were designed based on accessibility and on a relatively linear path that led from the most urbanized portion of the city into the more natural part of the city.
+A transect was developed within each city, and points were spaced ~ 500 meters apart on each transect. Woodford, Lawson, and Hazelbrook had 5 points each, while Katoomba had 9 points (Fig. 1). Transects were designed based on accessibility and on a linear path that led from the most urbanized portion of the city into the natural landscape.
 
-Between August 2017 and July 2018, transects were visited twice per month, and 5-minute point-counts were conducted at each point. Surveys were conducted on days where the weather would have a minimal effect, and surveys were completed between sunrise and 5 hours after sunrise. Transects, as well as order of transects was randomly completed so that the same transect was not being conducted first every month. A distance sampling approach was used whereby observers recorded all birds heard or seen, and estimated the distance to the birds' detection to the nearest 10 meters.
+Between August 2017 and August 2018, transects were visited twice per month, and 5-minute point-counts were conducted at each point. Surveys were conducted on days where the weather would have a minimal effect, and surveys were completed between sunrise and 5 hours after sunrise. Transects, as well as order of transects was randomly completed so that the same transect was not being conducted first every month. A distance sampling approach was used whereby observers recorded all birds heard or seen, and observers estimated the distance to the birds' detection to the nearest 10 meters.
 
 ## Bird traits
 
 ## Statistical analyses
+### Bird density and abundance
+
 
 # Results
 A total of XX point counts were conducted, and XX minutes spent surveying for birds within the four transects. Overall, XX species were recorded, with the most commonly recorded birds were XXX, XXXX, XXXX, and XXXX on XX%, XX%, XX%, XX% of point-counts respectively. Appendix 1 shows the list of birds recorded and the total number of records for each species.
@@ -57,3 +58,10 @@ We thank the Australian Wildlife Society for providing funding for this work. Ma
 
 <div id="refs"></div>
 
+\newpage
+
+# Figures
+
+```{r Figure 1, echo=FALSE, fig.cap="The study area, showing the four transects in each of four cities within the Blue Mountains World Heritage Area."}
+knitr::include_graphics("finalFigs/Figure1.pdf")
+```
