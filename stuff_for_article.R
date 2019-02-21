@@ -4,6 +4,7 @@
 library(readr)
 library(dplyr)
 library(ggplot2)
+library(tidyr)
 
 # read in data
 data <- read_csv("Data/survey_data.csv")
@@ -54,7 +55,7 @@ data %>%
   ggplot(., aes(x=urbanness_imperv, y=mean_SR, group=1)) +
   geom_smooth(se=FALSE)+
   geom_point(color="green4", size=1.8)+
-  xlab("Urbanization (% impervious)")+
+  xlab("Urbanisation (% impervious)")+
   ylab("Mean species richness")+
   theme_classic()+
   theme(axis.text=element_text(size=12, color="black"))+
@@ -79,7 +80,7 @@ data %>%
   ggplot(., aes(x=urbanness_imperv, y=mean_SR, group=Transect, color=Transect)) +
   geom_smooth(se=FALSE)+
   geom_point(size=1.8)+
-  xlab("Urbanization (% impervious)")+
+  xlab("Urbanisation (% impervious)")+
   ylab("Mean species richness")+
   theme_classic()+
   theme(axis.text=element_text(size=12, color="black"))+
@@ -152,7 +153,7 @@ ggplot(plot, aes(x=urbanness_imperv, y=N, color=Species, group=Species))+
   geom_point(size=2.3)+
   geom_smooth(se=FALSE,size=1.3)+
   facet_wrap(~Species, scales="free_y")+
-  xlab("Urbanization (% impervious)")+
+  xlab("Urbanisation (% impervious)")+
   ylab("Number of obs.")+
   theme_classic()+
   theme(axis.text=element_text(size=12, color="black"))+
@@ -217,8 +218,8 @@ exotic2 <- exotic %>%
 bind_rows(native, exotic2) %>%
   ggplot(., aes(x=urbanness_imperv, y=mean_SR, group=exotic_status, color=exotic_status)) +
   geom_smooth(se=FALSE)+
-  geom_point(color="green4", size=1.8)+
-  xlab("Urbanization (% impervious)")+
+  geom_point(size=1.8)+
+  xlab("Urbanisation (% impervious)")+
   ylab("Mean species richness")+
   theme_classic()+
   theme(axis.text=element_text(size=12, color="black"))+
